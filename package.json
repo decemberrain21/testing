@@ -1,0 +1,28 @@
+{
+  "name": "node-api",
+  "version": "1.0.0",
+  "description": "REST API with Nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "testing"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "body-parser": "^1.17.2",
+    "mongoose": "^4.10.6"
+     
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyeineizaw/testing.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Nyein Ei Zaw",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/nyeineizaw/testing/issues"
+  },
+  "homepage": "https://github.com/nyeineizaw/testing#readme"
+}
